@@ -3,7 +3,7 @@ var router = express.Router();
 var firebase = require("firebase/app");
 
 var bodyParser=require('body-parser')
-const serviceAccount=require('../task-b221e-firebase-adminsdk-xlt0g-a35b743177.json');
+const serviceAccount=require('your-firebase-database-serviceAccount-json-file');
 const admin = require('firebase-admin');
 
 admin.initializeApp({
