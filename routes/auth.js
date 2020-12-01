@@ -16,13 +16,7 @@ const db = admin.firestore();
 
 
 var firebaseConfig = {
-    apiKey: "AIzaSyCo6DLYD6Z-buq0Ng7xKLlj-Ae2x8N7LnA",
-    authDomain: "task-b221e.firebaseapp.com",
-    databaseURL: "https://task-b221e.firebaseio.com",
-    projectId: "task-b221e",
-    storageBucket: "task-b221e.appspot.com",
-    messagingSenderId: "662478730354",
-    appId: "1:662478730354:web:18a52ee8673d8d642c3eeb"
+    //put your firebase project credentials here...
   };
   
  // app.engine("html",require('ejs').renderFile);
